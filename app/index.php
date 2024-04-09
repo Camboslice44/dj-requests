@@ -33,7 +33,7 @@
       <!-- LOGO & DESCRIPTION -->
       <div class="text-center mb-4">
         <a href="?easterEgg"><img class="mb-4" src="./img/logo-300.png" alt="" width="72" height="72"></a>
-        <h1 class="h3 mb-3 font-weight-normal">DJ Requests</h1>
+        <h1 class="h3 mb-3 font-weight-normal">DJ Song Requests</h1>
         <p>Use the <a style="font-size:80%;color:#e83e8c;word-break:break-word;text-decoration:none;" href="#searchBarModal" data-toggle="modal" data-target="#searchBarModal">search bar</a> to find and <a style="font-size:80%;color:#e83e8c;word-break:break-word;text-decoration:none;" href="#requestSongModal" data-toggle="modal" data-target="#requestSongModal">request</a> your favorite song.
       </div>
 
